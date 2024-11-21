@@ -62,9 +62,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Specify your license here, e.g., MIT, GPL]
+MIT
 
 ## Credits
 
-Developed for the Nepali language text processing community.
+Developed for the Nepali language text processing community. Specially, MEME Creators.
 
