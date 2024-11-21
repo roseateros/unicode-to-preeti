@@ -67,3 +67,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Credits
 
 Developed for the Nepali language text processing community.
+
